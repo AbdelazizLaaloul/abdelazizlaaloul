@@ -1,4 +1,5 @@
 ## Hi there 👋
+ My name is Abdelaziz Laaloul i'm a passionate software developer currently studying Computer Engineering at the École Supérieure de Technologie de Dakhla. I enjoy building smart, useful, and creative digital solutions.
 
 - 🔭 I’m currently working on my graduation project (PFE) focused on Sentiment Classification using NLP. I'm also developing two mobile apps using Flutter — one for my internship and another for a tech competition.
 
