@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on my graduation project (PFE) focused on Sentiment Classification using NLP. I'm also developing two mobile apps using Flutter — one for my internship and another for a tech competition.
+
+- 🌱 I’m currently learning Flutter & Dart, and improving my skills in Natural Language Processing (NLP) and mobile UI/UX design.
+
+- 👯 I’m looking to collaborate on AI-powered apps, mobile solutions, and anything that blends creativity with technology.
 <!--
 **AbdelazizLaaloul/abdelazizlaaloul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
